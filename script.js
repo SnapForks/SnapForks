@@ -6,3 +6,6 @@ document.getElementById('txt1').value+
 document.getElementById('txt2').value+
 "&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"
 }
+function errorFive(){
+  alert("Error")
+}
