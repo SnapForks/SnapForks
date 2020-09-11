@@ -10,3 +10,5 @@ More simple to use! And the Code is less complex.
 ![Free](https://img.shields.io/badge/Free%3F-Yep!-green)
 
 **Please** open and issue or pull request! It would help SnapForks!
+
+[Credits](https://github.com/SnapForks/Credits#credits)
