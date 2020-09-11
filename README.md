@@ -3,6 +3,8 @@
 
 ### https://snapforks.github.io/SnapForks
 
+![](https://snapforks.github.io/SnapKnifes/SnapForks%20Bad.jpg)
+
 A complete rewrite of SnapCups
 
 More simple to use! And the Code is less complex.
