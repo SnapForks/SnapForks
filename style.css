@@ -1,3 +1,4 @@
+/*Body*/
 body {
  margin:1em;
 }
@@ -31,3 +32,47 @@ user-select: none;
 -webkit-user-select: none;
 -ms-user-select: none;
 }
+
+Button {
+	background-color:#2d3142;
+	border-radius:4px;
+	border:1px solid #1c2c6b;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+	text-decoration:none;
+}
+Button:hover {
+	background-color:#0d0f17;
+}
+Button:active {
+	position:relative;
+	top:1px;
+}
+
+
+input {
+	background-color:#dbdbdb;
+	border-radius:4px;
+	border:1px solid #737373;
+	display:inline-block;
+	cursor:text;
+	color:#000000;
+	font-family:Arial;
+	font-size:13px;
+	padding:6px 12px;
+	text-decoration:none;
+}
+input:hover {
+	background-color:#d1d1d1;
+}
+input:active {
+	position:relative;
+	top:1px;
+}
+
+        
