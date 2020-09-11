@@ -70,9 +70,6 @@ input {
 input:hover {
 	background-color:#d1d1d1;
 }
-input:active {
-	position:relative;
-	top:1px;
-}
+
 
         
