@@ -92,8 +92,8 @@ div.dash {
 background-color:#2d3142;
 margin:0em;
 color:white;
-padding:10px;
-padding-top:11px;
+padding:0px;
+padding-top:0px;
 }
 div.dash img{
 background-color:white;
@@ -101,20 +101,20 @@ vertical-align: text-top;
 }
 
 div.dash a {
-	background-color:#23283d;
-	border-radius:4px;
-	border:1px solid #0e1633;
+	background-color:#2d3142;
+	border-radius:0px;
+	border:0px solid #0e1633;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Arial;
 	font-size:15px;
 	font-weight:bold;
-	padding:10px 14px;
+	padding:20px 14px;
 	text-decoration:none;
 }
 div.dash a:hover  {
-	background-color:#0d0f17;
+	background-color:#23283d;
 }
 div.dash a:active  {
 	position:relative;
@@ -147,4 +147,7 @@ font-size:20px;
 body {
 margin:0em;
 }
-        
+div.dash div.f{
+padding:8px;
+float:right;
+}
