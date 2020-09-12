@@ -151,3 +151,6 @@ div.dash div.f{
 padding:8px;
 float:right;
 }
+span.dash{
+border-left: 2px dashed #23283d;
+}
