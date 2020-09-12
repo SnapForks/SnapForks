@@ -3,6 +3,22 @@ body {
  margin:0em;
 }
 
+textarea {
+	background-color:#dbdbdb;
+	border-radius:4px;
+	border:1px solid #737373;
+	display:inline-block;
+	cursor:text;
+	color:#000000;
+	font-family:Arial;
+	font-size:13px;
+	padding:6px 12px;
+	text-decoration:none;
+}
+textarea:hover {
+	background-color:#d1d1d1;
+}
+
 iframe {
  border: 1px solid black;
  border-radius: 5px;
