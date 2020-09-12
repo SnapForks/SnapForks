@@ -1,6 +1,6 @@
 /*Body*/
 body {
- margin:1em;
+ margin:0em;
 }
 
 iframe {
@@ -71,5 +71,64 @@ input:hover {
 	background-color:#d1d1d1;
 }
 
+/*Dash*/
+div.dash {
+background-color:#2d3142;
+margin:0em;
+color:white;
+padding:10px;
+padding-top:11px;
+}
+div.dash img{
+background-color:white;
+vertical-align: text-top;
+}
 
+div.dash a {
+	background-color:#23283d;
+	border-radius:4px;
+	border:1px solid #0e1633;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 14px;
+	text-decoration:none;
+}
+div.dash a:hover  {
+	background-color:#0d0f17;
+}
+div.dash a:active  {
+	position:relative;
+	top:1px;
+}
+div.dash a.white {
+	background-color:white;
+	border-radius:4px;
+	border:1px solid lightgray;
+	display:inline-block;
+	cursor:pointer;
+	color:#23283d;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px 14px;
+	text-decoration:none;
+}
+div.dash a.white:hover {
+	background-color: lightgrey;
+}
+div.dash a.white:active  {
+	position:relative;
+	top:1px;
+}
+div.dash b{
+font-size:20px;
+}
+
+body {
+margin:0em;
+}
         
