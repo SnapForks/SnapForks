@@ -5,12 +5,10 @@
 
 ![](https://snapforks.github.io/SnapKnifes/SnapForks%20Bad.jpg)
 
-A complete rewrite of SnapCups
-
-More simple to use! And the Code is less complex.
+A complete rewrite of SnapCups. More simple to use! And the Code is less complex.
 
 ![Free](https://img.shields.io/badge/Free%3F-Yep!-green)
 
-**Please** open and issue or pull request! It would help SnapForks!
+Open and issue or pull request! It would help SnapForks!
 
 [Credits](https://github.com/SnapForks/Credits#credits)
