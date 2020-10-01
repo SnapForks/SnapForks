@@ -1,3 +1,4 @@
+document.getElementbyId('txt2').value = str.replace("#", "%23");
 function submit(){
 document.getElementById('if').src=
 "https://snap.berkeley.edu/embed?project="+
