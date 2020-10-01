@@ -3,8 +3,6 @@
 
 ### https://snapforks.github.io/SnapForks
 
-![](https://snapforks.github.io/SnapKnifes/SnapForks%20Bad.jpg)
-
 A complete rewrite of SnapCups. More simple to use! And the Code is less complex.
 
 ![Free](https://img.shields.io/badge/Free%3F-Yep!-green)
@@ -12,3 +10,8 @@ A complete rewrite of SnapCups. More simple to use! And the Code is less complex
 Open and issue or pull request! It would help SnapForks!
 
 [Credits](https://github.com/SnapForks/Credits#credits)
+
+## Issues
+["#..." is Ignored](https://github.com/SnapForks/SnapForks/issues/9) by R4356th.
+
+<img src="https://snapforks.github.io/SnapKnifes/SnapForks%20Bad.jpg" width="700">
