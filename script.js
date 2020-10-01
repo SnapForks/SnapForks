@@ -1,5 +1,5 @@
 var project = document.getElementById('txt1').value;
-var projectnametocheckfor = project.replace(/#/g, "%23");
+var projectnametocheckfor = project.str.replace(/#/g, "%23");
 function submit(){
 document.getElementById('if').src=
 "https://snap.berkeley.edu/embed?project="+
@@ -19,4 +19,3 @@ document.getElementById('txt2').value+
 function errorFive(){
   alert("Error")
 }
-
