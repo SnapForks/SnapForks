@@ -1,8 +1,9 @@
-document.getElementbyId('txt2').value = str.replace("#", "%23");
+var project = document.getElementById('txt1').value;
+var projectnametocheckfor = project.replace(/#/g, "%23");
 function submit(){
 document.getElementById('if').src=
 "https://snap.berkeley.edu/embed?project="+
-document.getElementById('txt1').value+
+projectnametocheckfor +
 "&user="+
 document.getElementById('txt2').value+
 "&showTitle=true&showAuthor=true&editButton=true&pauseButton=true";
@@ -18,3 +19,4 @@ document.getElementById('txt2').value+
 function errorFive(){
   alert("Error")
 }
+
