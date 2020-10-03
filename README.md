@@ -21,3 +21,5 @@ Please make issues and Pull Request! It would really help!
 ## Thanks
 Thanks for 223 views
 ![status](https://snapforks.github.io/SnapKnifes/Screen%20Shot%202020-10-03%20at%2011.33.50%20am.png)
+## Other
+If you wonder what ConStop is, it is my server language.
