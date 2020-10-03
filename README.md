@@ -15,7 +15,8 @@ Open and issue or pull request! It would help SnapForks!
 ["#..." is Ignored](https://github.com/SnapForks/SnapForks/issues/9) by R4356th.
 
 <img src="https://snapforks.github.io/SnapKnifes/SnapForks%20Bad.jpg" width="700">
-
+## issues and PRs
+Please make issues and Pull Request! It would really help!
 ## Thanks
 Thanks for 223 views
 ![status](https://snapforks.github.io/SnapKnifes/Screen%20Shot%202020-10-03%20at%2011.33.50%20am.png)
