@@ -1,13 +1,8 @@
-
-var project = document.getElementById('txt1').value;
-var projectnametocheckfor = project.str.replace(/#/g, "%23");
-
 //Player Script
-
 function submit(){
 document.getElementById('if').src=
 "https://snap.berkeley.edu/embed?project="+
-projectnametocheckfor +
+document.getElementById('txt1').value+
 "&user="+
 document.getElementById('txt2').value+
 "&showTitle=true&showAuthor=true&editButton=true&pauseButton=true";
