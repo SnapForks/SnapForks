@@ -18,3 +18,7 @@ document.getElementById('txt2').value+
 function errorFive(){
   alert("Error")
 }
+
+function tailError(string){
+  alert("Could not fetch project:\n" + string +"\n Please make sure the project is shared")
+}
