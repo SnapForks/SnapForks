@@ -2,7 +2,7 @@
 const iframe = document.getElementById('iframe');
 const user = document.getElementById('project-author');
 const project = document.getElementById('project-name');
-const projectURLTextarea = document.getElementById('code')
+const projectURLTextarea = document.getElementById('project-url')
 function submit(){
   const encodedUsername = encodeURIComponent(user.value);
   const encodedProjectName = encodeURIComponent(project.value)
