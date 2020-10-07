@@ -9,6 +9,7 @@ function submit(){
   iframe.src=`https://snap.berkeley.edu/embed?project=${encodedProjectName}&user=${encodedUsername}&showTitle=true&showAuthor=true&editButton=true&pauseButton=true`; 
   projectURLTextarea.value =  `https://snap.berkeley.edu/embed?project=${encodedProjectName}user=${encodedUsername}&showTitle=true&showAuthor=true&editButton=true&pauseButton=true`;
 }
+//Error Script
 function errorFive(){
   alert("Error")
 }
