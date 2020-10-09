@@ -9,6 +9,9 @@ Open and issue or pull request! It would help SnapForks!
 
 [Credits](https://github.com/SnapForks/Credits#credits)
 
+# About
+Embed your [Snap<em>!</em>](https://snap.berkeley.edu/) projects and improve the running. 
+
 
 <img src="https://snapforks.github.io/SnapKnifes/SnapForks%20Bad.jpg" width="700">
 
