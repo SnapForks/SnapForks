@@ -1,24 +1,20 @@
-//Player Script
-function submit(){
-document.getElementById('if').src=
-"https://snap.berkeley.edu/embed?project="+
-encodeURIComponent(document.getElementById('txt1').value)+
-"&user="+
-encodeURIComponent(document.getElementById('txt2').value)+
-"&showTitle=true&showAuthor=true&editButton=true&pauseButton=true";
-//Embed Script
-var x = document.getElementById('code'); 
-x.value =  "https://snap.berkeley.edu/embed?project="+
-encodeURIComponent(document.getElementById('txt1').value)+
-"&user="+
-encodeURIComponent(document.getElementById('txt2').value)+
-"&showTitle=true&showAuthor=true&editButton=true&pauseButton=true";
-//Error Script
+let username, project, url;
+async function submit() {
+  project = encodeURIComponent(document.getElementById('txt1').value);
+  username = encodeURIComponent(document.getElementById('txt2').value);
+  if(!project || !username) {
+    alert('That project does not exist');
+    return;
+  }
+  const req = await fetch(`https://cors-anywhere.herokuapp.com/https://snap.berkeley.edu/projects/${username}/${project}`);
+  if(req.ok) {
+    loadProject();
+  } else if(req.status === 404){
+    alert('That project does not exist');
+  }
 }
-function errorFive(){
-  alert("Error")
-}
-
-function tailError(string){
-  alert("Could not fetch project:\n" + string +"\n Please make sure the project is shared")
+function loadProject() {  
+  url=`https://snap.berkeley.edu/embed?project=${project}&user=${username}&showTitle=true&showAuthor=true&editButton=true&pauseButton=true`;
+  document.getElementById('if').src = url;
+  document.getElementById('code').value = url;
 }
