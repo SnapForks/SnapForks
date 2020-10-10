@@ -4,7 +4,6 @@ async function submit() {
   username = encodeURIComponent(document.getElementById('txt2').value);
   const req = await fetch(`https://cors-anywhere.herokuapp.com/https://snap.berkeley.edu/projects/${username}/${project}`);
   if(req.ok) {
-    //console.log('exists');
     loadProject();
   } else if(req.status === 404){
     alert('That project does not exist');
