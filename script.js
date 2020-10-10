@@ -11,7 +11,7 @@ async function submit() {
   }
 }
 function loadProject() {  
-  url=`https://snap.berkeley.edu/embedproject=${project}&user=${username}&showTitle=true&showAuthor=true&editButton=true&pauseButton=true`;
+  url=`https://snap.berkeley.edu/embed?project=${project}&user=${username}&showTitle=true&showAuthor=true&editButton=true&pauseButton=true`;
   document.getElementById('if').src = url;
   document.getElementById('code').value = url;
 }
