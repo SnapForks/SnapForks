@@ -16,3 +16,5 @@ Copy and past this link to embed the snapforks player into your website
 ```html
 <iframe allowfullscreen allow="geolocation; microphone; camera" src="https://snapforks-player.glitch.me/embed" id="if" width="550" height="630"></iframe>
 ```
+Credit: @Daniel4-Scratch <br>
+Website: https://snapforks-player.glitch.me/
