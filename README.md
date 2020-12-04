@@ -10,8 +10,9 @@ When you publish a Snap! project, SnapForks may not find the project, wait at le
 
 [Credits](https://github.com/SnapForks/Credits#credits)
 
-## Embed
-### Player
+## Extentions
+I am accepting extentions for snapforks
+### Embed Player
 Copy and past this link to embed the snapforks player into your website
 ```html
 <iframe allowfullscreen allow="geolocation; microphone; camera" src="https://snapforks-player.glitch.me/embed" id="if" width="550" height="630"></iframe>
