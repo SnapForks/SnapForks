@@ -15,6 +15,9 @@ document.getElementById('submitBtn').addEventListener('click', async function ()
   else 
     alert('Error ' + req.status + ' while fetching project');
 });
+function error(msg) {
+  
+}
 function loadProject() {  
   url=`https://snap.berkeley.edu/embed?project=${project}&user=${username}&showTitle=true&showAuthor=true&editButton=true&pauseButton=true`;
   document.getElementById('if').src = url;
