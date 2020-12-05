@@ -12,9 +12,9 @@ document.getElementById('submitBtn').addEventListener('click', async function ()
   if (req.ok) 
     loadProject();
   else if (req.status === 404) 
-    alert('That project does not exist');
+    error('That project does not exist');
   else 
-    alert('Error ' + req.status + ' while fetching project');
+    error('Error ' + req.status + ' while fetching project');
 });
 function error(msg) {
   errElem.style.display = 'inline-block';
