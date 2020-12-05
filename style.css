@@ -155,3 +155,7 @@ float:right;
 span.dash{
 border-left: 2px dashed #23283d;
 }
+span.err-msg {
+display: none;
+color: red;
+}
