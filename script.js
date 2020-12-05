@@ -5,7 +5,7 @@ document.getElementById('submitBtn').addEventListener('click', async function ()
   project = encodeURIComponent(document.getElementById('txt1').value);
   username = encodeURIComponent(document.getElementById('txt2').value);
   if(!project || !username) {
-    alert('That project does not exist');
+    error('That project does not exist');
     return;
   }
   const req = await fetch(`https://cors-anywhere.herokuapp.com/https://snap.berkeley.edu/projects/${username}/${project}`);
