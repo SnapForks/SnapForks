@@ -10,8 +10,8 @@ When you publish a Snap! project, SnapForks may not find the project, wait at le
 
 [Credits](https://github.com/SnapForks/Credits#credits)
 
-## Extentions
-I am accepting extentions for snapforks
+## Extensions
+I am accepting extensions for snapforks
 ### Embed Player
 Copy and past this link to embed the snapforks player into your website
 ```html
