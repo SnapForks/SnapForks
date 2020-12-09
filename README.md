@@ -1,4 +1,6 @@
-# ![Logo](https://SnapForks.github.io/SnapForks/SnapForks%20Banner.png)
+<img src="https://SnapForks.github.io/SnapForks/SnapForks%20Banner.png" alt="Scratch Addons logo" align="right" width="428px"></img>
+# SnapForks
+
 [![Issues IMG](https://img.shields.io/github/issues/SnapForks/SnapForks)](https://github.com/SnapForks/SnapForks/issues)  [![Stars](https://img.shields.io/github/stars/SnapForks/SnapForks?color=purple&label=Stars)](https://github.com/SnapForks/SnapForks/stargazers) [![Forks](https://img.shields.io/github/forks/SnapForks/SnapForks?color=Red&label=Forks)](https://github.com/Daniel4-Scratch/SnapForks/network/members) [![Watchers](https://img.shields.io/github/watchers/Daniel4-Scratch/SnapForks?color=darklime&label=Watchers)](https://github.com/SnapForks/SnapForks/watchers) ![Size](https://img.shields.io/github/repo-size/SnapForks/SnapForks?label=Size)
 #
 A complete rewrite of SnapCups. More simple to use! And the Code is less complex.
