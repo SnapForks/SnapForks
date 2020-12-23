@@ -12,6 +12,8 @@ When you publish a Snap! project, SnapForks may not find the project, wait at le
 
 [Credits](https://github.com/SnapForks/Credits#credits)
 
+SnapForks requires JavaScript.
+
 ## Extensions
 I am accepting extensions for snapforks
 ### Embed Player
