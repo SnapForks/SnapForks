@@ -1,9 +1,9 @@
 ;(function () {
 let username, project, url;
 const errElem = document.getElementById('err-msg'); 
-document.getElementById('submitBtn').addEventListener('click', async function () {
-  project = encodeURIComponent(document.getElementById('txt1').value);
-  username = encodeURIComponent(document.getElementById('txt2').value);
+document.getElementById('submit-btn').addEventListener('click', async function () {
+  project = encodeURIComponent(document.getElementById('project-name').value);
+  username = encodeURIComponent(document.getElementById('author').value);
   if(!project || !username) {
     error('That project does not exist');
     return;
