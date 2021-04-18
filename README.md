@@ -23,3 +23,4 @@ Copy and past this link to embed the snapforks player into your website
 ```
 Credit: @Daniel4-Scratch <br>
 Website: https://snapforks-player.glitch.me/
+The favicon works now
