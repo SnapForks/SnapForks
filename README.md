@@ -3,6 +3,9 @@
 
 [![Issues IMG](https://img.shields.io/github/issues/SnapForks/SnapForks)](https://github.com/SnapForks/SnapForks/issues)  [![Stars](https://img.shields.io/github/stars/SnapForks/SnapForks?color=purple&label=Stars)](https://github.com/SnapForks/SnapForks/stargazers) [![Forks](https://img.shields.io/github/forks/SnapForks/SnapForks?color=Red&label=Forks)](https://github.com/Daniel4-Scratch/SnapForks/network/members) [![Watchers](https://img.shields.io/github/watchers/Daniel4-Scratch/SnapForks?color=darklime&label=Watchers)](https://github.com/SnapForks/SnapForks/watchers) ![Size](https://img.shields.io/github/repo-size/SnapForks/SnapForks?label=Size)
 #
+
+![](https://d1eo0ig0pi5tcs.cloudfront.net/optimized/2X/5/5e82e699e0eebcc3d788098a3086c8135e8b8b91_2_689x144.png)
+
 A complete rewrite of SnapCups. More simple to use! And the Code is "less" complex.
 
 Open and issue or pull request! It would help SnapForks!
