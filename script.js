@@ -8,7 +8,7 @@ document.getElementById('submit-btn').addEventListener('click', async function (
     error('That project does not exist');
     return;
   }
-  const req = await fetch(`https://cors-anywhere.herokuapp.com/https://ssnap.berkeley.edu/projects/${username}/${project}`);
+  const req = await fetch(`https://cors-anywhere.herokuapp.com/https://snap.berkeley.edu/projects/${username}/${project}`);
   if (req.ok) 
     loadProject();
   else if (req.status === 404) 
